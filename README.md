@@ -80,6 +80,8 @@
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=serverless&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 **Frontend**
 
@@ -102,7 +104,9 @@
 **Testing and tools**
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -132,6 +136,21 @@
 ### 📌 Featured projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🎥 <a href="https://chwma.com">Chwma</a> &nbsp;<sub><i>contributor · live at chwma.com</i></sub></h4>
+      <p>One-to-one random video and text chat. What I built:</p>
+      <ul>
+        <li><b>Language and region matching</b>: spoken languages, country and state as soft preferences that widen while someone waits, with optional strict modes</li>
+        <li><b>Mutual ReConnect</b>: both people opt in to stay connected and can invite each other again, with remove, block and report</li>
+        <li><b>AI conversation starters</b>: generated per shared language and interests, pooled so matches never wait, with a daily budget, safety checks and feedback that retires starters people skip</li>
+        <li><b>Accent colours</b>: preset accents and a custom colour wheel, with contrast maths that keeps text at WCAG 4.5:1 in light and dark themes</li>
+        <li><b>Browser tests with Playwright</b>: two visitors meeting in text and video chat, run in the UAT and production deploy pipelines</li>
+        <li><b>Versioned Terms consent</b> in the 18+ dialog, so visitors accept again when the Terms change</li>
+      </ul>
+      <p><code>Node.js</code> <code>Express</code> <code>Socket.IO</code> <code>JavaScript</code> <code>Playwright</code> <code>GitHub Actions</code> <code>OpenRouter</code></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>📚 <a href="https://github.com/Aravind-2000/LibraryManagementSystem_Backend">Library Management System</a></h4>
